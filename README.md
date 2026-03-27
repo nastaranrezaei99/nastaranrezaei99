@@ -1,6 +1,4 @@
 
-# 💫 About Me:
-🧑‍💻 I’m currently working on: BookDNA — a quiz-based web app that helps users find books that match their taste and mood + university projects<br><br>🤝 I’m looking to collaborate on: Front-end features, UI improvements, accessibility, and clean code refactoring<br><br>🙋 I’m looking for help with: JavaScript architecture, better state handling, and making the recommendation logic more scalable<br><br>🌱 I’m currently learning: JavaScript (DOM, events), responsive UI, and Git/GitHub workflows<br><br>💬 Ask me about: Building small web apps with HTML/CSS/JS, GitHub Pages deployment, and UI polish<br><br>⚡ Fun fact: I love cozy aesthetics for web design and I’m into astronomy
 
 
 ## 🌐 Socials:
